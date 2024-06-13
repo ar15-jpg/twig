@@ -12,7 +12,7 @@ The display has 6 modes that can be set. The display can be scaled with a comman
 * 1024x768 (4:3) - 0x3
 * 1280x720 (16:9) - 0x4
 * 1600x900 (16:9) - 0x5
-* 1920x1080 (16:9)  0x6
+* 1920x1080 (16:9) - 0x6
 
 # Input
 Currently only keyboard is supported but mouse will be in the future specification versions. The key pressed is pushed to the top of the stack.
